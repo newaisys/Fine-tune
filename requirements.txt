@@ -1,0 +1,10 @@
+python-dotenv
+jupyter
+python-dotenv
+sentence-transformers
+datasets
+peft
+evaluate
+torch
+numpy
+gradientai
